@@ -1,0 +1,6 @@
+http://www4.ncsu.edu/~mlsichit/Teaching/407/Resources/udpChecksum.html
+http://telescript.denayer.wenk.be/~hcr/cn/idoceo/udp_header.html
+https://www.lifewire.com/tcp-headers-and-udp-headers-explained-817970
+https://www.eit.lth.se/ppplab/IPHeader.htm#Padding
+https://www.frozentux.net/iptables-tutorial/chunkyhtml/x281.html
+http://www.networksorcery.com/enp/protocol/tcp.htm#Options
